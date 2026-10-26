@@ -28,6 +28,7 @@
 |---|---|
 | 擴張版_日本放大區_v1地形草案.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%93%B4%E5%BC%B5%E7%89%88_%E6%97%A5%E6%9C%AC%E6%94%BE%E5%A4%A7%E5%8D%80_v1%E5%9C%B0%E5%BD%A2%E8%8D%89%E6%A1%88.csv |
 | 普查_物產格總表_2026-10-24.md | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%99%AE%E6%9F%A5_%E7%89%A9%E7%94%A2%E6%A0%BC%E7%B8%BD%E8%A1%A8_2026-10-24.md |
+| 格人口_測試版.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%A0%BC%E4%BA%BA%E5%8F%A3_%E6%B8%AC%E8%A9%A6%E7%89%88.csv |
 | 河流屬性表.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%B2%B3%E6%B5%81%E5%B1%AC%E6%80%A7%E8%A1%A8.csv |
 | 測試版_東亞七國_草案.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%B8%AC%E8%A9%A6%E7%89%88_%E6%9D%B1%E4%BA%9E%E4%B8%83%E5%9C%8B_%E8%8D%89%E6%A1%88.csv |
 | 測試版_東亞八國_v1.4河流草案.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%B8%AC%E8%A9%A6%E7%89%88_%E6%9D%B1%E4%BA%9E%E5%85%AB%E5%9C%8B_v1.4%E6%B2%B3%E6%B5%81%E8%8D%89%E6%A1%88.csv |
@@ -43,13 +44,30 @@
 | guan/西夏城堡_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/guan/%E8%A5%BF%E5%A4%8F%E5%9F%8E%E5%A0%A1_v1.json |
 | guan/關口_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/guan/%E9%97%9C%E5%8F%A3_v1.json |
 | guan/關口_日本_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/guan/%E9%97%9C%E5%8F%A3_%E6%97%A5%E6%9C%AC_v1.json |
+| japan/v2_輪廓_格寬20.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/japan/v2_%E8%BC%AA%E5%BB%93_%E6%A0%BC%E5%AF%AC20.npz |
+| japan/v2_輪廓_格寬25.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/japan/v2_%E8%BC%AA%E5%BB%93_%E6%A0%BC%E5%AF%AC25.npz |
+| japan/v2_輪廓_格寬30.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/japan/v2_%E8%BC%AA%E5%BB%93_%E6%A0%BC%E5%AF%AC30.npz |
+| japan/v2_輪廓_比較.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/japan/v2_%E8%BC%AA%E5%BB%93_%E6%AF%94%E8%BC%83.json |
 | japan/坡度校準_ETOPO5.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/japan/%E5%9D%A1%E5%BA%A6%E6%A0%A1%E6%BA%96_ETOPO5.json |
 | japan/河道_日本放大區_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/japan/%E6%B2%B3%E9%81%93_%E6%97%A5%E6%9C%AC%E6%94%BE%E5%A4%A7%E5%8D%80_v1.json |
 | japan/覆蓋_查無.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/japan/%E8%A6%86%E8%93%8B_%E6%9F%A5%E7%84%A1.json |
+| japan/輪廓_v1.4.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/japan/%E8%BC%AA%E5%BB%93_v1.4.npz |
+| japan/輪廓方案_乙之一含淡路格.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/japan/%E8%BC%AA%E5%BB%93%E6%96%B9%E6%A1%88_%E4%B9%99%E4%B9%8B%E4%B8%80%E5%90%AB%E6%B7%A1%E8%B7%AF%E6%A0%BC.npz |
+| japan/輪廓方案_乙之二無淡路格.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/japan/%E8%BC%AA%E5%BB%93%E6%96%B9%E6%A1%88_%E4%B9%99%E4%B9%8B%E4%BA%8C%E7%84%A1%E6%B7%A1%E8%B7%AF%E6%A0%BC.npz |
 | jiehao/測試版_東亞八國_界壕草案.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/jiehao/%E6%B8%AC%E8%A9%A6%E7%89%88_%E6%9D%B1%E4%BA%9E%E5%85%AB%E5%9C%8B_%E7%95%8C%E5%A3%95%E8%8D%89%E6%A1%88.csv |
 | jiehao/金界壕草案示意圖.png | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/jiehao/%E9%87%91%E7%95%8C%E5%A3%95%E8%8D%89%E6%A1%88%E7%A4%BA%E6%84%8F%E5%9C%96.png |
 | ridge/山脊_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/ridge/%E5%B1%B1%E8%84%8A_v1.json |
 | ridge/山脊_日本_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/ridge/%E5%B1%B1%E8%84%8A_%E6%97%A5%E6%9C%AC_v1.json |
+| world_src/boundary.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/boundary.json |
+| world_src/boundary_v4.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/boundary_v4.json |
+| world_src/boundary_v5.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/boundary_v5.json |
+| world_src/etopo20.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/etopo20.npz |
+| world_src/hexgrid_v4.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/hexgrid_v4.npz |
+| world_src/hexgrid_v9.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/hexgrid_v9.npz |
+| world_src/ne_10m_geography_regions_polys.geojson | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/ne_10m_geography_regions_polys.geojson |
+| world_src/ne_50m_lakes.geojson | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/ne_50m_lakes.geojson |
+| world_src/ne_50m_land.geojson | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/ne_50m_land.geojson |
+| world_src/ne_50m_rivers_lake_centerlines.geojson | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/ne_50m_rivers_lake_centerlines.geojson |
 | wuchan/物產上圖_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/wuchan/%E7%89%A9%E7%94%A2%E4%B8%8A%E5%9C%96_v1.json |
 
 ## 說明
