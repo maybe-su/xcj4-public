@@ -1,0 +1,92 @@
+[
+ {
+  "cell": [
+   46,
+   22
+  ],
+  "pass_": "定州長城關門",
+  "lv": 2,
+  "terrain": "深山",
+  "relax": false
+ },
+ {
+  "cell": [
+   24,
+   49
+  ],
+  "pass_": "瓦亭關",
+  "lv": 2,
+  "terrain": "丘陵",
+  "relax": false
+ },
+ {
+  "cell": [
+   31,
+   49
+  ],
+  "pass_": "武關",
+  "lv": 2,
+  "terrain": "深山",
+  "relax": false
+ },
+ {
+  "cell": [
+   31,
+   51
+  ],
+  "pass_": "武關",
+  "lv": 2,
+  "terrain": "淺山",
+  "relax": false
+ },
+ {
+  "cell": [
+   24,
+   52
+  ],
+  "pass_": "七方關",
+  "lv": 2,
+  "terrain": "深山",
+  "relax": false
+ },
+ {
+  "cell": [
+   20,
+   73
+  ],
+  "pass_": "龍首關",
+  "lv": 2,
+  "terrain": "深山",
+  "relax": false
+ },
+ {
+  "cell": [
+   22,
+   71
+  ],
+  "pass_": "龍尾關",
+  "lv": 2,
+  "terrain": "深山",
+  "relax": false
+ },
+ {
+  "cell": [
+   31,
+   40
+  ],
+  "pass_": "天門關",
+  "lv": 1,
+  "terrain": "深山",
+  "relax": false
+ },
+ {
+  "cell": [
+   33,
+   72
+  ],
+  "pass_": "橫山寨",
+  "lv": 1,
+  "terrain": "丘陵",
+  "relax": false
+ }
+]
