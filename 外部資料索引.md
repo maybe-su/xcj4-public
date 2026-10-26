@@ -70,6 +70,7 @@
 | jiehao/金界壕草案示意圖.png | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/jiehao/%E9%87%91%E7%95%8C%E5%A3%95%E8%8D%89%E6%A1%88%E7%A4%BA%E6%84%8F%E5%9C%96.png |
 | ridge/山脊_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/ridge/%E5%B1%B1%E8%84%8A_v1.json |
 | ridge/山脊_日本_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/ridge/%E5%B1%B1%E8%84%8A_%E6%97%A5%E6%9C%AC_v1.json |
+| world/D942_水域拆欄_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/D942_%E6%B0%B4%E5%9F%9F%E6%8B%86%E6%AC%84_%E7%B4%80%E9%8C%84.json |
 | world/v1.7第三階段_檢查.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/v1.7%E7%AC%AC%E4%B8%89%E9%9A%8E%E6%AE%B5_%E6%AA%A2%E6%9F%A5.json |
 | world/v1.7輪廓_C3.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/v1.7%E8%BC%AA%E5%BB%93_C3.csv |
 | world/v1.7輪廓_C4.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/v1.7%E8%BC%AA%E5%BB%93_C4.csv |
@@ -94,6 +95,7 @@
 | world/日本輪廓_v1.7剛體C2_半島補格紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E6%97%A5%E6%9C%AC%E8%BC%AA%E5%BB%93_v1.7%E5%89%9B%E9%AB%94C2_%E5%8D%8A%E5%B3%B6%E8%A3%9C%E6%A0%BC%E7%B4%80%E9%8C%84.json |
 | world/日本輪廓_v1.7剛體_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E6%97%A5%E6%9C%AC%E8%BC%AA%E5%BB%93_v1.7%E5%89%9B%E9%AB%94_%E7%B4%80%E9%8C%84.json |
 | world/格號對照_測試版v1.6_母圖.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E6%A0%BC%E8%99%9F%E5%B0%8D%E7%85%A7_%E6%B8%AC%E8%A9%A6%E7%89%88v1.6_%E6%AF%8D%E5%9C%96.csv |
+| world/水深_ETOPO5_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E6%B0%B4%E6%B7%B1_ETOPO5_v1.7.json |
 | world/範圍_測試版v1.6.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E7%AF%84%E5%9C%8D_%E6%B8%AC%E8%A9%A6%E7%89%88v1.6.json |
 | world/範圍_測試版v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E7%AF%84%E5%9C%8D_%E6%B8%AC%E8%A9%A6%E7%89%88v1.7.json |
 | world/覆蓋_查無_v1.7全圖.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E8%A6%86%E8%93%8B_%E6%9F%A5%E7%84%A1_v1.7%E5%85%A8%E5%9C%96.json |
