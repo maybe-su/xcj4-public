@@ -49,8 +49,16 @@
 | cities/城市_v2.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v2.json |
 | expand/坡度校準_ETOPO20_東北.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E5%9D%A1%E5%BA%A6%E6%A0%A1%E6%BA%96_ETOPO20_%E6%9D%B1%E5%8C%97.json |
 | expand/坡度校準_ETOPO5_東北.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E5%9D%A1%E5%BA%A6%E6%A0%A1%E6%BA%96_ETOPO5_%E6%9D%B1%E5%8C%97.json |
+| expand/東北外緣_v1.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1.csv |
 | expand/東北外緣_v1_取樣.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1_%E5%8F%96%E6%A8%A3.npz |
+| expand/東北外緣_v1_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1_%E7%B4%80%E9%8C%84.json |
+| expand/東北外緣_v1_說明.md | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1_%E8%AA%AA%E6%98%8E.md |
+| expand/範圍_東北外緣_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E7%AF%84%E5%9C%8D_%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1.json |
 | expand/西緣沙州_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E8%A5%BF%E7%B7%A3%E6%B2%99%E5%B7%9E_v1.json |
+| goryeo/山城_高麗_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/goryeo/%E5%B1%B1%E5%9F%8E_%E9%AB%98%E9%BA%97_v1.7.json |
+| goryeo/港口_高麗_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/goryeo/%E6%B8%AF%E5%8F%A3_%E9%AB%98%E9%BA%97_v1.7.json |
+| goryeo/航路與險地_高麗_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/goryeo/%E8%88%AA%E8%B7%AF%E8%88%87%E9%9A%AA%E5%9C%B0_%E9%AB%98%E9%BA%97_v1.7.json |
+| goryeo/道路_高麗_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/goryeo/%E9%81%93%E8%B7%AF_%E9%AB%98%E9%BA%97_v1.7.json |
 | guan/封路_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/guan/%E5%B0%81%E8%B7%AF_v1.json |
 | guan/無主城堡_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/guan/%E7%84%A1%E4%B8%BB%E5%9F%8E%E5%A0%A1_v1.json |
 | guan/西夏城堡_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/guan/%E8%A5%BF%E5%A4%8F%E5%9F%8E%E5%A0%A1_v1.json |
@@ -74,6 +82,7 @@
 | jiehao/金界壕草案示意圖.png | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/jiehao/%E9%87%91%E7%95%8C%E5%A3%95%E8%8D%89%E6%A1%88%E7%A4%BA%E6%84%8F%E5%9C%96.png |
 | ridge/山脊_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/ridge/%E5%B1%B1%E8%84%8A_v1.json |
 | ridge/山脊_日本_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/ridge/%E5%B1%B1%E8%84%8A_%E6%97%A5%E6%9C%AC_v1.json |
+| ridge/山脊_高麗_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/ridge/%E5%B1%B1%E8%84%8A_%E9%AB%98%E9%BA%97_v1.json |
 | world/D942_水域拆欄_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/D942_%E6%B0%B4%E5%9F%9F%E6%8B%86%E6%AC%84_%E7%B4%80%E9%8C%84.json |
 | world/v1.7第三階段_檢查.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/v1.7%E7%AC%AC%E4%B8%89%E9%9A%8E%E6%AE%B5_%E6%AA%A2%E6%9F%A5.json |
 | world/v1.7輪廓_C3.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/v1.7%E8%BC%AA%E5%BB%93_C3.csv |
@@ -103,6 +112,7 @@
 | world/範圍_測試版v1.6.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E7%AF%84%E5%9C%8D_%E6%B8%AC%E8%A9%A6%E7%89%88v1.6.json |
 | world/範圍_測試版v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E7%AF%84%E5%9C%8D_%E6%B8%AC%E8%A9%A6%E7%89%88v1.7.json |
 | world/覆蓋_查無_v1.7全圖.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E8%A6%86%E8%93%8B_%E6%9F%A5%E7%84%A1_v1.7%E5%85%A8%E5%9C%96.json |
+| world/高麗_v1.7_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E9%AB%98%E9%BA%97_v1.7_%E7%B4%80%E9%8C%84.json |
 | world/高麗取樣_v9.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E9%AB%98%E9%BA%97%E5%8F%96%E6%A8%A3_v9.npz |
 | world/高麗海岸線_v9平面.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E9%AB%98%E9%BA%97%E6%B5%B7%E5%B2%B8%E7%B7%9A_v9%E5%B9%B3%E9%9D%A2.npz |
 | world_src/boundary.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/boundary.json |
@@ -117,6 +127,7 @@
 | world_src/ne_50m_rivers_lake_centerlines.geojson | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/ne_50m_rivers_lake_centerlines.geojson |
 | wuchan/物產上圖_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/wuchan/%E7%89%A9%E7%94%A2%E4%B8%8A%E5%9C%96_v1.json |
 | wuchan/物產上圖_日本_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/wuchan/%E7%89%A9%E7%94%A2%E4%B8%8A%E5%9C%96_%E6%97%A5%E6%9C%AC_v1.7.json |
+| wuchan/物產上圖_高麗_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/wuchan/%E7%89%A9%E7%94%A2%E4%B8%8A%E5%9C%96_%E9%AB%98%E9%BA%97_v1.7.json |
 
 ## 說明
 - 本庫是私人主庫 maybe-su/xcj4 的公開子集，只放人物與地圖；設計文件、劇本、模擬程式不在這裡。
