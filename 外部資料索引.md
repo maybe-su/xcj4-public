@@ -28,13 +28,16 @@
 - **正式測試版地圖＝`測試版_東亞九國_v1.7.csv`**（2026-10-27 起唯一正式版；含日本；格號＝世界母圖全域格號 (世界欄, 世界列)）。
 - 其餘 `測試版_東亞六國／七國／八國_*.csv`、`v1.7輪廓*` 是舊版或草案，只供對照；舊測試版格號 (col,row) ＝ 全域格號 −(153, 48)，對照表 `world/格號對照_測試版v1.6_母圖.csv`。
 - `格人口_測試版.csv` 自 2026-10-27 起是全域格號（世界欄,世界列），已含日本 273 格；`格人口_日本_v1.7.csv` 是日本部分的原始檔（同為全域格號）。
+- `測試版_東亞九國_v1.8.csv`＝v1.7＋東北外緣（黑龍江下游、濱海，K3c）＋西域外緣（沙州以西：高昌、北庭、伊州、羅布泊，D962）的併圖版；外緣格是荒野、外族地（高昌回鶻，不是可玩國），人口見 `格人口_東北外緣_v1.8.csv`、`格人口_西域外緣_v1.8.csv`（未編戶，推估 ⚠）；模擬器切換到 v1.8 前，正式版仍是 v1.7。
 
 | 檔案 | 網址 |
 |---|---|
 | 擴張版_日本放大區_v1地形草案.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%93%B4%E5%BC%B5%E7%89%88_%E6%97%A5%E6%9C%AC%E6%94%BE%E5%A4%A7%E5%8D%80_v1%E5%9C%B0%E5%BD%A2%E8%8D%89%E6%A1%88.csv |
 | 普查_物產格總表_2026-10-24.md | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%99%AE%E6%9F%A5_%E7%89%A9%E7%94%A2%E6%A0%BC%E7%B8%BD%E8%A1%A8_2026-10-24.md |
 | 格人口_日本_v1.7.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%A0%BC%E4%BA%BA%E5%8F%A3_%E6%97%A5%E6%9C%AC_v1.7.csv |
+| 格人口_東北外緣_v1.8.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%A0%BC%E4%BA%BA%E5%8F%A3_%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1.8.csv |
 | 格人口_測試版.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%A0%BC%E4%BA%BA%E5%8F%A3_%E6%B8%AC%E8%A9%A6%E7%89%88.csv |
+| 格人口_西域外緣_v1.8.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%A0%BC%E4%BA%BA%E5%8F%A3_%E8%A5%BF%E5%9F%9F%E5%A4%96%E7%B7%A3_v1.8.csv |
 | 格人口_高麗_v1.7.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%A0%BC%E4%BA%BA%E5%8F%A3_%E9%AB%98%E9%BA%97_v1.7.csv |
 | 河流屬性表.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%B2%B3%E6%B5%81%E5%B1%AC%E6%80%A7%E8%A1%A8.csv |
 | 測試版_東亞七國_草案.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%B8%AC%E8%A9%A6%E7%89%88_%E6%9D%B1%E4%BA%9E%E4%B8%83%E5%9C%8B_%E8%8D%89%E6%A1%88.csv |
@@ -51,11 +54,15 @@
 | cities/城市_v2.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v2.json |
 | expand/坡度校準_ETOPO20_東北.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E5%9D%A1%E5%BA%A6%E6%A0%A1%E6%BA%96_ETOPO20_%E6%9D%B1%E5%8C%97.json |
 | expand/坡度校準_ETOPO5_東北.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E5%9D%A1%E5%BA%A6%E6%A0%A1%E6%BA%96_ETOPO5_%E6%9D%B1%E5%8C%97.json |
+| expand/坡度校準_ETOPO5_西域.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E5%9D%A1%E5%BA%A6%E6%A0%A1%E6%BA%96_ETOPO5_%E8%A5%BF%E5%9F%9F.json |
 | expand/東北外緣_v1.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1.csv |
 | expand/東北外緣_v1_取樣.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1_%E5%8F%96%E6%A8%A3.npz |
 | expand/東北外緣_v1_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1_%E7%B4%80%E9%8C%84.json |
 | expand/東北外緣_v1_說明.md | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1_%E8%AA%AA%E6%98%8E.md |
 | expand/範圍_東北外緣_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E7%AF%84%E5%9C%8D_%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1.json |
+| expand/範圍_西域外緣_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E7%AF%84%E5%9C%8D_%E8%A5%BF%E5%9F%9F%E5%A4%96%E7%B7%A3_v1.json |
+| expand/西域外緣_v1.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E8%A5%BF%E5%9F%9F%E5%A4%96%E7%B7%A3_v1.csv |
+| expand/西域外緣_v1_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E8%A5%BF%E5%9F%9F%E5%A4%96%E7%B7%A3_v1_%E7%B4%80%E9%8C%84.json |
 | expand/西緣沙州_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E8%A5%BF%E7%B7%A3%E6%B2%99%E5%B7%9E_v1.json |
 | goryeo/山城_高麗_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/goryeo/%E5%B1%B1%E5%9F%8E_%E9%AB%98%E9%BA%97_v1.7.json |
 | goryeo/建城候選_高麗_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/goryeo/%E5%BB%BA%E5%9F%8E%E5%80%99%E9%81%B8_%E9%AB%98%E9%BA%97_v1.7.json |
