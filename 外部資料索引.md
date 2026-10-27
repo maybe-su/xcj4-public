@@ -23,12 +23,13 @@
 | 人物_高麗擴張版.csv | 高麗擴張版名冊 | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/people/%E4%BA%BA%E7%89%A9_%E9%AB%98%E9%BA%97%E6%93%B4%E5%BC%B5%E7%89%88.csv |
 | 姓名索引.csv | 依姓名查所在檔案 | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/people/%E5%A7%93%E5%90%8D%E7%B4%A2%E5%BC%95.csv |
 
-## 地圖（測試版東亞九國 v1.7、日本）
+## 地圖（測試版東亞九國 v1.8、日本、高麗）
 
-- **正式測試版地圖＝`測試版_東亞九國_v1.7.csv`**（2026-10-27 起唯一正式版；含日本；格號＝世界母圖全域格號 (世界欄, 世界列)）。
-- 其餘 `測試版_東亞六國／七國／八國_*.csv`、`v1.7輪廓*` 是舊版或草案，只供對照；舊測試版格號 (col,row) ＝ 全域格號 −(153, 48)，對照表 `world/格號對照_測試版v1.6_母圖.csv`。
-- `格人口_測試版.csv` 自 2026-10-27 起是全域格號（世界欄,世界列），已含日本 273 格；`格人口_日本_v1.7.csv` 是日本部分的原始檔（同為全域格號）。
-- `測試版_東亞九國_v1.8.csv`＝v1.7＋東北外緣（黑龍江下游、濱海，K3c）＋西域外緣（沙州以西：高昌、北庭、伊州、羅布泊，D962）的併圖版；外緣格是荒野、外族地（高昌回鶻，不是可玩國），人口見 `格人口_東北外緣_v1.8.csv`、`格人口_西域外緣_v1.8.csv`（未編戶，推估 ⚠）；模擬器切換到 v1.8 前，正式版仍是 v1.7。
+- **正式測試版地圖＝`測試版_東亞九國_v1.8.csv`**（2026-10-27 下午起唯一正式版；v1.7＋東北外緣（黑龍江下游、濱海，K3c）＋西域外緣（沙州以西：高昌、北庭、伊州、羅布泊，D962）；矩形欄 147–231、列 30–134；格號＝世界母圖全域格號 (世界欄, 世界列)）。
+- 外緣格是荒野、外族地（高昌回鶻，不是可玩國），人口見 `格人口_東北外緣_v1.8.csv`、`格人口_西域外緣_v1.8.csv`（未編戶，推估 ⚠）；已併入 `格人口_測試版.csv`。
+- 近海海格的「水深」自 v1.8 起用近岸帶判定（離岸 ≤ 20 公里的海點水深中位數，ETOPO5；D966）；船級：輕舟、江船只走近海淺海，海船以上照水深。
+- `測試版_東亞九國_v1.7.csv` 是 v1.8 的底圖（日本、高麗在這裡改，再由併圖程式產生 v1.8）；其餘 `測試版_東亞六國／七國／八國_*.csv`、`v1.7輪廓*` 是舊版或草案，只供對照；舊測試版格號 (col,row) ＝ 全域格號 −(153, 48)，對照表 `world/格號對照_測試版v1.6_母圖.csv`。
+- `格人口_測試版.csv` 是全域格號（世界欄,世界列），含日本、高麗、東北外緣、西域外緣；`格人口_日本_v1.7.csv` 等是各區原始檔（同為全域格號）。
 
 | 檔案 | 網址 |
 |---|---|
@@ -123,6 +124,7 @@
 | world/日本輪廓_v1.7剛體_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E6%97%A5%E6%9C%AC%E8%BC%AA%E5%BB%93_v1.7%E5%89%9B%E9%AB%94_%E7%B4%80%E9%8C%84.json |
 | world/格號對照_測試版v1.6_母圖.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E6%A0%BC%E8%99%9F%E5%B0%8D%E7%85%A7_%E6%B8%AC%E8%A9%A6%E7%89%88v1.6_%E6%AF%8D%E5%9C%96.csv |
 | world/水深_ETOPO5_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E6%B0%B4%E6%B7%B1_ETOPO5_v1.7.json |
+| world/水深近岸帶_ETOPO5_v1.8.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E6%B0%B4%E6%B7%B1%E8%BF%91%E5%B2%B8%E5%B8%B6_ETOPO5_v1.8.json |
 | world/範圍_測試版v1.6.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E7%AF%84%E5%9C%8D_%E6%B8%AC%E8%A9%A6%E7%89%88v1.6.json |
 | world/範圍_測試版v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E7%AF%84%E5%9C%8D_%E6%B8%AC%E8%A9%A6%E7%89%88v1.7.json |
 | world/範圍_測試版v1.8.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E7%AF%84%E5%9C%8D_%E6%B8%AC%E8%A9%A6%E7%89%88v1.8.json |
