@@ -63,6 +63,7 @@
 | expand/範圍_西域外緣_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E7%AF%84%E5%9C%8D_%E8%A5%BF%E5%9F%9F%E5%A4%96%E7%B7%A3_v1.json |
 | expand/西域外緣_v1.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E8%A5%BF%E5%9F%9F%E5%A4%96%E7%B7%A3_v1.csv |
 | expand/西域外緣_v1_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E8%A5%BF%E5%9F%9F%E5%A4%96%E7%B7%A3_v1_%E7%B4%80%E9%8C%84.json |
+| expand/西域外緣_v1_說明.md | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E8%A5%BF%E5%9F%9F%E5%A4%96%E7%B7%A3_v1_%E8%AA%AA%E6%98%8E.md |
 | expand/西緣沙州_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E8%A5%BF%E7%B7%A3%E6%B2%99%E5%B7%9E_v1.json |
 | goryeo/山城_高麗_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/goryeo/%E5%B1%B1%E5%9F%8E_%E9%AB%98%E9%BA%97_v1.7.json |
 | goryeo/建城候選_高麗_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/goryeo/%E5%BB%BA%E5%9F%8E%E5%80%99%E9%81%B8_%E9%AB%98%E9%BA%97_v1.7.json |
