@@ -48,6 +48,7 @@
 | cities/城市_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v1.7.json |
 | cities/城市_v2.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v2.json |
 | expand/坡度校準_ETOPO20_東北.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E5%9D%A1%E5%BA%A6%E6%A0%A1%E6%BA%96_ETOPO20_%E6%9D%B1%E5%8C%97.json |
+| expand/坡度校準_ETOPO5_東北.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E5%9D%A1%E5%BA%A6%E6%A0%A1%E6%BA%96_ETOPO5_%E6%9D%B1%E5%8C%97.json |
 | expand/東北外緣_v1_取樣.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E6%9D%B1%E5%8C%97%E5%A4%96%E7%B7%A3_v1_%E5%8F%96%E6%A8%A3.npz |
 | expand/西緣沙州_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E8%A5%BF%E7%B7%A3%E6%B2%99%E5%B7%9E_v1.json |
 | guan/封路_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/guan/%E5%B0%81%E8%B7%AF_v1.json |
