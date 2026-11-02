@@ -50,6 +50,7 @@
 | 測試版_東亞八國_v1.6關口草案.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%B8%AC%E8%A9%A6%E7%89%88_%E6%9D%B1%E4%BA%9E%E5%85%AB%E5%9C%8B_v1.6%E9%97%9C%E5%8F%A3%E8%8D%89%E6%A1%88.csv |
 | 測試版_東亞八國_草案.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%B8%AC%E8%A9%A6%E7%89%88_%E6%9D%B1%E4%BA%9E%E5%85%AB%E5%9C%8B_%E8%8D%89%E6%A1%88.csv |
 | 測試版_東亞六國.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%B8%AC%E8%A9%A6%E7%89%88_%E6%9D%B1%E4%BA%9E%E5%85%AD%E5%9C%8B.csv |
+| 物產格_D1419刪除留檔.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E7%89%A9%E7%94%A2%E6%A0%BC_D1419%E5%88%AA%E9%99%A4%E7%95%99%E6%AA%94.csv |
 | 總表_關口_2026-10-24.md | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E7%B8%BD%E8%A1%A8_%E9%97%9C%E5%8F%A3_2026-10-24.md |
 | cities/城市_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v1.7.json |
 | cities/城市_v2.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v2.json |
