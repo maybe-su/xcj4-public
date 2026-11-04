@@ -107,6 +107,7 @@
 | world/v1.8併圖_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/v1.8%E4%BD%B5%E5%9C%96_%E7%B4%80%E9%8C%84.json |
 | world/v1.8第三階段_檢查.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/v1.8%E7%AC%AC%E4%B8%89%E9%9A%8E%E6%AE%B5_%E6%AA%A2%E6%9F%A5.json |
 | world/世界母圖_v1.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E4%B8%96%E7%95%8C%E6%AF%8D%E5%9C%96_v1.csv |
+| world/宜放牧_D1492_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E5%AE%9C%E6%94%BE%E7%89%A7_D1492_%E7%B4%80%E9%8C%84.json |
 | world/日本_v1.7第三階段_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E6%97%A5%E6%9C%AC_v1.7%E7%AC%AC%E4%B8%89%E9%9A%8E%E6%AE%B5_%E7%B4%80%E9%8C%84.json |
 | world/日本_v1.7第二階段_檢查.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E6%97%A5%E6%9C%AC_v1.7%E7%AC%AC%E4%BA%8C%E9%9A%8E%E6%AE%B5_%E6%AA%A2%E6%9F%A5.json |
 | world/日本_v1.7第二階段_紀錄.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world/%E6%97%A5%E6%9C%AC_v1.7%E7%AC%AC%E4%BA%8C%E9%9A%8E%E6%AE%B5_%E7%B4%80%E9%8C%84.json |
