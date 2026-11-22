@@ -148,6 +148,22 @@
 | wuchan/物產上圖_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/wuchan/%E7%89%A9%E7%94%A2%E4%B8%8A%E5%9C%96_v1.json |
 | wuchan/物產上圖_日本_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/wuchan/%E7%89%A9%E7%94%A2%E4%B8%8A%E5%9C%96_%E6%97%A5%E6%9C%AC_v1.7.json |
 | wuchan/物產上圖_高麗_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/wuchan/%E7%89%A9%E7%94%A2%E4%B8%8A%E5%9C%96_%E9%AB%98%E9%BA%97_v1.7.json |
+| 四角候選_T1010/候選A_修整_四角格.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8A_%E4%BF%AE%E6%95%B4_%E5%9B%9B%E8%A7%92%E6%A0%BC.csv |
+| 四角候選_T1010/候選A_修整_摘要.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8A_%E4%BF%AE%E6%95%B4_%E6%91%98%E8%A6%81.json |
+| 四角候選_T1010/候選A_修整_角點.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8A_%E4%BF%AE%E6%95%B4_%E8%A7%92%E9%BB%9E.csv |
+| 四角候選_T1010/候選A_六角對四角.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8A_%E5%85%AD%E8%A7%92%E5%B0%8D%E5%9B%9B%E8%A7%92.csv |
+| 四角候選_T1010/候選A_四角格.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8A_%E5%9B%9B%E8%A7%92%E6%A0%BC.csv |
+| 四角候選_T1010/候選A_摘要.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8A_%E6%91%98%E8%A6%81.json |
+| 四角候選_T1010/候選B_六角對四角.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8B_%E5%85%AD%E8%A7%92%E5%B0%8D%E5%9B%9B%E8%A7%92.csv |
+| 四角候選_T1010/候選B_四角格.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8B_%E5%9B%9B%E8%A7%92%E6%A0%BC.csv |
+| 四角候選_T1010/候選B_摘要.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8B_%E6%91%98%E8%A6%81.json |
+| 四角候選_T1010/候選C_六角對四角.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8C_%E5%85%AD%E8%A7%92%E5%B0%8D%E5%9B%9B%E8%A7%92.csv |
+| 四角候選_T1010/候選C_四角格.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8C_%E5%9B%9B%E8%A7%92%E6%A0%BC.csv |
+| 四角候選_T1010/候選C_摘要.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8C_%E6%91%98%E8%A6%81.json |
+| 四角候選_T1010/候選D_六角對四角.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8D_%E5%85%AD%E8%A7%92%E5%B0%8D%E5%9B%9B%E8%A7%92.csv |
+| 四角候選_T1010/候選D_四角格.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8D_%E5%9B%9B%E8%A7%92%E6%A0%BC.csv |
+| 四角候選_T1010/候選D_摘要.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E5%80%99%E9%81%B8D_%E6%91%98%E8%A6%81.json |
+| 四角候選_T1010/掃描_原點軸向80組.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E5%9B%9B%E8%A7%92%E5%80%99%E9%81%B8_T1010/%E6%8E%83%E6%8F%8F_%E5%8E%9F%E9%BB%9E%E8%BB%B8%E5%90%9180%E7%B5%84.tsv |
 
 ## 說明
 - 本庫是私人主庫 maybe-su/xcj4 的公開子集，只放人物與地圖；設計文件、劇本、模擬程式不在這裡。
