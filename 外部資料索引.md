@@ -23,7 +23,9 @@
 | 人物_高麗擴張版.csv | 高麗擴張版名冊 | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/people/%E4%BA%BA%E7%89%A9_%E9%AB%98%E9%BA%97%E6%93%B4%E5%BC%B5%E7%89%88.csv |
 | 姓名索引.csv | 依姓名查所在檔案 | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/people/%E5%A7%93%E5%90%8D%E7%B4%A2%E5%BC%95.csv |
 
-## 地圖（測試版東亞九國 v1.8、日本、高麗）
+## 地圖（36 公里全圖＝大地圖正本；測試版東亞九國 v1.8、日本、高麗）
+
+- **大地圖正本＝`36/world_36.json`**（D2943，2026-11-24 起；36 公里四角格 13,927 格，JSON：cells 地形、lat／lon 真實經緯度、attr 屬性、rivers／ridges／canyons／jiehao 邊資料、cities／city_area 城、passes 關口、ports 港、fords 渡口、`格寬`與`z` 放大區實際格寬）；說明見 `36/README.md`。`測試版_東亞九國_v1.8.csv` 等六角版是舊制、只供對照。
 
 - **正式測試版地圖＝`測試版_東亞九國_v1.8.csv`**（2026-10-27 下午起唯一正式版；v1.7＋東北外緣（黑龍江下游、濱海，K3c）＋西域外緣（沙州以西：高昌、北庭、伊州、羅布泊，D962）；矩形欄 147–231、列 30–134；格號＝世界母圖全域格號 (世界欄, 世界列)）。
 - 外緣格是荒野、外族地（高昌回鶻，不是可玩國），人口見 `格人口_東北外緣_v1.8.csv`、`格人口_西域外緣_v1.8.csv`（未編戶，推估 ⚠）；已併入 `格人口_測試版.csv`。
@@ -52,6 +54,17 @@
 | 測試版_東亞六國.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E6%B8%AC%E8%A9%A6%E7%89%88_%E6%9D%B1%E4%BA%9E%E5%85%AD%E5%9C%8B.csv |
 | 物產格_D1419刪除留檔.csv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E7%89%A9%E7%94%A2%E6%A0%BC_D1419%E5%88%AA%E9%99%A4%E7%95%99%E6%AA%94.csv |
 | 總表_關口_2026-10-24.md | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E7%B8%BD%E8%A1%A8_%E9%97%9C%E5%8F%A3_2026-10-24.md |
+| 36/README.md | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/README.md |
+| 36/world_36.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/world_36.json |
+| 36/修正紀錄_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E4%BF%AE%E6%AD%A3%E7%B4%80%E9%8C%84_v1.1.tsv |
+| 36/史實港清單_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8F%B2%E5%AF%A6%E6%B8%AF%E6%B8%85%E5%96%AE_v1.tsv |
+| 36/圖層修正_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%9C%96%E5%B1%A4%E4%BF%AE%E6%AD%A3_v1.1.tsv |
+| 36/座標修正_圖層_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%BA%A7%E6%A8%99%E4%BF%AE%E6%AD%A3_%E5%9C%96%E5%B1%A4_v1.1.tsv |
+| 36/日本令制國_真實經緯_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%97%A5%E6%9C%AC%E4%BB%A4%E5%88%B6%E5%9C%8B_%E7%9C%9F%E5%AF%A6%E7%B6%93%E7%B7%AF_v1.1.tsv |
+| 36/灣格人判_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E4%BA%BA%E5%88%A4_v1.1.tsv |
+| 36/灣格候選基準_v1.1wip.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E5%80%99%E9%81%B8%E5%9F%BA%E6%BA%96_v1.1wip.tsv |
+| 36/灣格改動_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E6%94%B9%E5%8B%95_v1.1.tsv |
+| 36/灣格改動_v2.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E6%94%B9%E5%8B%95_v2.tsv |
 | cities/城市_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v1.7.json |
 | cities/城市_v2.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v2.json |
 | expand/坡度校準_ETOPO20_東北.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E5%9D%A1%E5%BA%A6%E6%A0%A1%E6%BA%96_ETOPO20_%E6%9D%B1%E5%8C%97.json |
