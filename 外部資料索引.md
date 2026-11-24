@@ -57,6 +57,8 @@
 | 36/README.md | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/README.md |
 | 36/world_36.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/world_36.json |
 | 36/修正紀錄_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E4%BF%AE%E6%AD%A3%E7%B4%80%E9%8C%84_v1.1.tsv |
+| 36/台灣區快照_1.7_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8F%B0%E7%81%A3%E5%8D%80%E5%BF%AB%E7%85%A7_1.7_v1.json |
+| 36/台灣重切_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8F%B0%E7%81%A3%E9%87%8D%E5%88%87_v1.tsv |
 | 36/史實港清單_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8F%B2%E5%AF%A6%E6%B8%AF%E6%B8%85%E5%96%AE_v1.tsv |
 | 36/史實港清單_v2.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8F%B2%E5%AF%A6%E6%B8%AF%E6%B8%85%E5%96%AE_v2.tsv |
 | 36/圖層修正_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%9C%96%E5%B1%A4%E4%BF%AE%E6%AD%A3_v1.1.tsv |
@@ -67,6 +69,7 @@
 | 36/江格升格_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%B1%9F%E6%A0%BC%E5%8D%87%E6%A0%BC_v1.tsv |
 | 36/河段通航_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%B2%B3%E6%AE%B5%E9%80%9A%E8%88%AA_v1.tsv |
 | 36/河灣刪除_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%B2%B3%E7%81%A3%E5%88%AA%E9%99%A4_v1.tsv |
+| 36/海岸修正_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%B5%B7%E5%B2%B8%E4%BF%AE%E6%AD%A3_v1.tsv |
 | 36/灣格人判_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E4%BA%BA%E5%88%A4_v1.1.tsv |
 | 36/灣格人判_v2.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E4%BA%BA%E5%88%A4_v2.tsv |
 | 36/灣格候選基準_v1.1wip.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E5%80%99%E9%81%B8%E5%9F%BA%E6%BA%96_v1.1wip.tsv |
