@@ -60,9 +60,13 @@
 | 36/史實港清單_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8F%B2%E5%AF%A6%E6%B8%AF%E6%B8%85%E5%96%AE_v1.tsv |
 | 36/史實港清單_v2.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8F%B2%E5%AF%A6%E6%B8%AF%E6%B8%85%E5%96%AE_v2.tsv |
 | 36/圖層修正_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%9C%96%E5%B1%A4%E4%BF%AE%E6%AD%A3_v1.1.tsv |
+| 36/州治表_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%B7%9E%E6%B2%BB%E8%A1%A8_v1.tsv |
 | 36/座標修正_圖層_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%BA%A7%E6%A8%99%E4%BF%AE%E6%AD%A3_%E5%9C%96%E5%B1%A4_v1.1.tsv |
 | 36/日本令制國_真實經緯_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%97%A5%E6%9C%AC%E4%BB%A4%E5%88%B6%E5%9C%8B_%E7%9C%9F%E5%AF%A6%E7%B6%93%E7%B7%AF_v1.1.tsv |
+| 36/江格候選_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%B1%9F%E6%A0%BC%E5%80%99%E9%81%B8_v1.tsv |
+| 36/江格升格_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%B1%9F%E6%A0%BC%E5%8D%87%E6%A0%BC_v1.tsv |
 | 36/河段通航_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%B2%B3%E6%AE%B5%E9%80%9A%E8%88%AA_v1.tsv |
+| 36/河灣刪除_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%B2%B3%E7%81%A3%E5%88%AA%E9%99%A4_v1.tsv |
 | 36/灣格人判_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E4%BA%BA%E5%88%A4_v1.1.tsv |
 | 36/灣格人判_v2.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E4%BA%BA%E5%88%A4_v2.tsv |
 | 36/灣格候選基準_v1.1wip.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E5%80%99%E9%81%B8%E5%9F%BA%E6%BA%96_v1.1wip.tsv |
@@ -73,6 +77,7 @@
 | 36/灣格改動_v4.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E6%94%B9%E5%8B%95_v4.tsv |
 | 36/灣格港名_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E6%B8%AF%E5%90%8D_v1.tsv |
 | 36/灣格預留_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E9%A0%90%E7%95%99_v1.tsv |
+| 36/特產補圖_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%89%B9%E7%94%A2%E8%A3%9C%E5%9C%96_v1.tsv |
 | 36/道路幹線_v2.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E9%81%93%E8%B7%AF%E5%B9%B9%E7%B7%9A_v2.tsv |
 | cities/城市_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v1.7.json |
 | cities/城市_v2.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v2.json |
