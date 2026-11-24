@@ -93,6 +93,7 @@
 | 36/灣格補灣_v3.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E8%A3%9C%E7%81%A3_v3.tsv |
 | 36/灣格預留_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E9%A0%90%E7%95%99_v1.tsv |
 | 36/特產補圖_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%89%B9%E7%94%A2%E8%A3%9C%E5%9C%96_v1.tsv |
+| 36/西擴_舊新格對照_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E8%A5%BF%E6%93%B4_%E8%88%8A%E6%96%B0%E6%A0%BC%E5%B0%8D%E7%85%A7_v1.tsv |
 | 36/道路幹線_v2.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E9%81%93%E8%B7%AF%E5%B9%B9%E7%B7%9A_v2.tsv |
 | 36/道路渡口_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E9%81%93%E8%B7%AF%E6%B8%A1%E5%8F%A3_v1.tsv |
 | 36/關口防線歸屬_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E9%97%9C%E5%8F%A3%E9%98%B2%E7%B7%9A%E6%AD%B8%E5%B1%AC_v1.tsv |
@@ -189,6 +190,7 @@
 | world_src/boundary.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/boundary.json |
 | world_src/boundary_v4.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/boundary_v4.json |
 | world_src/boundary_v5.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/boundary_v5.json |
+| world_src/dem_west_basemap4.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/dem_west_basemap4.npz |
 | world_src/etopo20.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/etopo20.npz |
 | world_src/hexgrid_v4.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/hexgrid_v4.npz |
 | world_src/hexgrid_v9.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/hexgrid_v9.npz |
