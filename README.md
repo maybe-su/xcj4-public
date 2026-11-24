@@ -59,11 +59,14 @@
 | 36/check36_例外.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/check36_%E4%BE%8B%E5%A4%96.tsv |
 | 36/world_36.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/world_36.json |
 | 36/修正紀錄_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E4%BF%AE%E6%AD%A3%E7%B4%80%E9%8C%84_v1.1.tsv |
+| 36/北延區快照_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8C%97%E5%BB%B6%E5%8D%80%E5%BF%AB%E7%85%A7_v1.json |
+| 36/北延重切_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8C%97%E5%BB%B6%E9%87%8D%E5%88%87_v1.tsv |
 | 36/台灣區快照_1.7_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8F%B0%E7%81%A3%E5%8D%80%E5%BF%AB%E7%85%A7_1.7_v1.json |
 | 36/台灣重切_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8F%B0%E7%81%A3%E9%87%8D%E5%88%87_v1.tsv |
 | 36/史實港清單_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8F%B2%E5%AF%A6%E6%B8%AF%E6%B8%85%E5%96%AE_v1.tsv |
 | 36/史實港清單_v2.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%8F%B2%E5%AF%A6%E6%B8%AF%E6%B8%85%E5%96%AE_v2.tsv |
 | 36/圖層修正_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%9C%96%E5%B1%A4%E4%BF%AE%E6%AD%A3_v1.1.tsv |
+| 36/宜放牧_史實牧地_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%AE%9C%E6%94%BE%E7%89%A7_%E5%8F%B2%E5%AF%A6%E7%89%A7%E5%9C%B0_v1.tsv |
 | 36/州治表_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%B7%9E%E6%B2%BB%E8%A1%A8_v1.tsv |
 | 36/座標修正_圖層_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E5%BA%A7%E6%A8%99%E4%BF%AE%E6%AD%A3_%E5%9C%96%E5%B1%A4_v1.1.tsv |
 | 36/日本令制國_真實經緯_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%97%A5%E6%9C%AC%E4%BB%A4%E5%88%B6%E5%9C%8B_%E7%9C%9F%E5%AF%A6%E7%B6%93%E7%B7%AF_v1.1.tsv |
@@ -71,6 +74,7 @@
 | 36/日本重切_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%97%A5%E6%9C%AC%E9%87%8D%E5%88%87_v1.tsv |
 | 36/日本重切_斷崖對照.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%97%A5%E6%9C%AC%E9%87%8D%E5%88%87_%E6%96%B7%E5%B4%96%E5%B0%8D%E7%85%A7.json |
 | 36/朝鮮東北區快照_v1.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%9C%9D%E9%AE%AE%E6%9D%B1%E5%8C%97%E5%8D%80%E5%BF%AB%E7%85%A7_v1.json |
+| 36/朝鮮東北重切_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%9C%9D%E9%AE%AE%E6%9D%B1%E5%8C%97%E9%87%8D%E5%88%87_v1.tsv |
 | 36/江格候選_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%B1%9F%E6%A0%BC%E5%80%99%E9%81%B8_v1.tsv |
 | 36/江格升格_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%B1%9F%E6%A0%BC%E5%8D%87%E6%A0%BC_v1.tsv |
 | 36/河段通航_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E6%B2%B3%E6%AE%B5%E9%80%9A%E8%88%AA_v1.tsv |
@@ -92,6 +96,13 @@
 | 36/道路幹線_v2.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E9%81%93%E8%B7%AF%E5%B9%B9%E7%B7%9A_v2.tsv |
 | 36/道路渡口_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E9%81%93%E8%B7%AF%E6%B8%A1%E5%8F%A3_v1.tsv |
 | 36/關口防線歸屬_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E9%97%9C%E5%8F%A3%E9%98%B2%E7%B7%9A%E6%AD%B8%E5%B1%AC_v1.tsv |
+| 36/美術/作物曆_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%BE%8E%E8%A1%93/%E4%BD%9C%E7%89%A9%E6%9B%86_v1.tsv |
+| 36/美術/兵種外觀_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%BE%8E%E8%A1%93/%E5%85%B5%E7%A8%AE%E5%A4%96%E8%A7%80_v1.tsv |
+| 36/美術/大地圖單位_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%BE%8E%E8%A1%93/%E5%A4%A7%E5%9C%B0%E5%9C%96%E5%96%AE%E4%BD%8D_v1.tsv |
+| 36/美術/尺度參考_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%BE%8E%E8%A1%93/%E5%B0%BA%E5%BA%A6%E5%8F%83%E8%80%83_v1.tsv |
+| 36/美術/水岸要素_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%BE%8E%E8%A1%93/%E6%B0%B4%E5%B2%B8%E8%A6%81%E7%B4%A0_v1.tsv |
+| 36/美術/牧畜種類_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%BE%8E%E8%A1%93/%E7%89%A7%E7%95%9C%E7%A8%AE%E9%A1%9E_v1.tsv |
+| 36/美術/臨時物件_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%BE%8E%E8%A1%93/%E8%87%A8%E6%99%82%E7%89%A9%E4%BB%B6_v1.tsv |
 | cities/城市_v1.7.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v1.7.json |
 | cities/城市_v2.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/cities/%E5%9F%8E%E5%B8%82_v2.json |
 | expand/坡度校準_ETOPO20_東北.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/expand/%E5%9D%A1%E5%BA%A6%E6%A0%A1%E6%BA%96_ETOPO20_%E6%9D%B1%E5%8C%97.json |
