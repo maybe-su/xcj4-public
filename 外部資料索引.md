@@ -191,6 +191,7 @@
 | world_src/boundary_v4.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/boundary_v4.json |
 | world_src/boundary_v5.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/boundary_v5.json |
 | world_src/dem_west_basemap4.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/dem_west_basemap4.npz |
+| world_src/etopo1_west73_80.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/etopo1_west73_80.npz |
 | world_src/etopo20.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/etopo20.npz |
 | world_src/hexgrid_v4.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/hexgrid_v4.npz |
 | world_src/hexgrid_v9.npz | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/world_src/hexgrid_v9.npz |
