@@ -56,6 +56,7 @@
 | 總表_關口_2026-10-24.md | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/%E7%B8%BD%E8%A1%A8_%E9%97%9C%E5%8F%A3_2026-10-24.md |
 | 36/F4_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/F4_v1.tsv |
 | 36/README.md | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/README.md |
+| 36/T1208_轄區改回史實_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/T1208_%E8%BD%84%E5%8D%80%E6%94%B9%E5%9B%9E%E5%8F%B2%E5%AF%A6_v1.tsv |
 | 36/check36_例外.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/check36_%E4%BE%8B%E5%A4%96.tsv |
 | 36/world_36.json | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/world_36.json |
 | 36/修正紀錄_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E4%BF%AE%E6%AD%A3%E7%B4%80%E9%8C%84_v1.1.tsv |
@@ -83,6 +84,7 @@
 | 36/灣格人判_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E4%BA%BA%E5%88%A4_v1.1.tsv |
 | 36/灣格人判_v2.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E4%BA%BA%E5%88%A4_v2.tsv |
 | 36/灣格候選基準_v1.1wip.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E5%80%99%E9%81%B8%E5%9F%BA%E6%BA%96_v1.1wip.tsv |
+| 36/灣格刪灣_T1206_v1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E5%88%AA%E7%81%A3_T1206_v1.tsv |
 | 36/灣格改動_v1.1.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E6%94%B9%E5%8B%95_v1.1.tsv |
 | 36/灣格改動_v2.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E6%94%B9%E5%8B%95_v2.tsv |
 | 36/灣格改動_v2b.tsv | https://raw.githubusercontent.com/maybe-su/xcj4-public/main/map/36/%E7%81%A3%E6%A0%BC%E6%94%B9%E5%8B%95_v2b.tsv |
